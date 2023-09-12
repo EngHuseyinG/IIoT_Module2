@@ -9,8 +9,8 @@
 
 
 
-const char*  ssid  = "ofis";
-const char* password = "kas*kkw-1970.";
+const char*  ssid  = "ssid";
+const char* password = "pw";
 unsigned long wifiledtimer;
 
 
